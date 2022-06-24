@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com:GetImpala/ota-integration-availability-gists.git",
   "author": "Phil Clamp <phil.clamp@impala.travel>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "xml-js": "^1.6.11"
+  }
 }
