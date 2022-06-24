@@ -1,0 +1,8 @@
+{
+  "name": "ota-integration-availability-gists",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:GetImpala/ota-integration-availability-gists.git",
+  "author": "Phil Clamp <phil.clamp@impala.travel>",
+  "license": "MIT"
+}
